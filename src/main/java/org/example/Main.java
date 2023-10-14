@@ -12,6 +12,7 @@ public class Main {
         System.out.println("L11 added");
         System.out.println("L90");
         System.out.println("L101 added");
+        System.out.println("L121 added");
 
     }
 }
